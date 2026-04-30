@@ -1,7 +1,7 @@
 # Digital_Basic_Implementation
 Synthesis, LEC, Constraints, APR, Pre/Post Simulatio
 
-## Hellown
+## 구성은 다음과 같습니다
 1. **RTL Design**
 * 
 
